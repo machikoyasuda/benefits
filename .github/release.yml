@@ -1,0 +1,14 @@
+changelog:
+  exclude:
+    labels:
+      - deployment
+  categories:
+    - title: Dependencies updates
+      labels:
+        - dependencies
+    - title: Documentation updates
+      labels:
+        - documentation
+    - title: New Features
+      labels:
+        - "*"
